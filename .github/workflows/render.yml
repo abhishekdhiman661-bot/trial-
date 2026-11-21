@@ -27,7 +27,7 @@ jobs:
       - name: Install System Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg libglu1-mesa libxi6 libxrender1 libxxf86vm1 libxfixes3 libxkbcommon0 libsm6 libgl1 xvfb
+          sudo apt-get install -y ffmpeg libglu1-mesa libxi6 libxrender1 libxxf86vm1 libxfixes3 libxkbcommon0 libsm6 libgl1 libegl1 libegl-mesa0 xvfb
 
       - name: Download and Install Blender
         run: |
@@ -40,12 +40,12 @@ jobs:
 
       - name: Build 3D Scenes in Blender
         run: |
-          xvfb-run -a blender -b -P build_scenes.py
+          LIBGL_ALWAYS_SOFTWARE=1 MESA_GL_VERSION_OVERRIDE=4.5 xvfb-run -a blender -b -P build_scenes.py
 
       - name: Render All 8 Scenes with Blender
         run: |
           mkdir -p renders
-          xvfb-run -a blender -b brain_myth.blend -P render_all.py
+          LIBGL_ALWAYS_SOFTWARE=1 MESA_GL_VERSION_OVERRIDE=4.5 xvfb-run -a blender -b brain_myth.blend -P render_all.py
 
       - name: Prepare Assets for Video Assembly
         run: |

@@ -1,0 +1,866 @@
+[
+  {
+    "id": "w0",
+    "text": "Aapne",
+    "start": 0.0,
+    "end": 0.27
+  },
+  {
+    "id": "w1",
+    "text": "zaroor",
+    "start": 0.27,
+    "end": 0.55
+  },
+  {
+    "id": "w2",
+    "text": "suna",
+    "start": 0.55,
+    "end": 0.82
+  },
+  {
+    "id": "w3",
+    "text": "hoga",
+    "start": 0.82,
+    "end": 1.09
+  },
+  {
+    "id": "w4",
+    "text": "ki",
+    "start": 1.09,
+    "end": 1.37
+  },
+  {
+    "id": "w5",
+    "text": "insaan",
+    "start": 1.37,
+    "end": 1.64
+  },
+  {
+    "id": "w6",
+    "text": "dimaag",
+    "start": 1.64,
+    "end": 1.92
+  },
+  {
+    "id": "w7",
+    "text": "ka",
+    "start": 1.92,
+    "end": 2.19
+  },
+  {
+    "id": "w8",
+    "text": "sirf",
+    "start": 2.19,
+    "end": 2.46
+  },
+  {
+    "id": "w9",
+    "text": "10",
+    "start": 2.46,
+    "end": 2.74
+  },
+  {
+    "id": "w10",
+    "text": "percent",
+    "start": 2.74,
+    "end": 3.01
+  },
+  {
+    "id": "w11",
+    "text": "use",
+    "start": 3.01,
+    "end": 3.28
+  },
+  {
+    "id": "w12",
+    "text": "karta",
+    "start": 3.28,
+    "end": 3.56
+  },
+  {
+    "id": "w13",
+    "text": "hai",
+    "start": 3.56,
+    "end": 3.83
+  },
+  {
+    "id": "w14",
+    "text": "lekin",
+    "start": 3.83,
+    "end": 4.11
+  },
+  {
+    "id": "w15",
+    "text": "yeh",
+    "start": 4.11,
+    "end": 4.38
+  },
+  {
+    "id": "w16",
+    "text": "bilkul",
+    "start": 4.38,
+    "end": 4.65
+  },
+  {
+    "id": "w17",
+    "text": "jhooth",
+    "start": 4.65,
+    "end": 4.93
+  },
+  {
+    "id": "w18",
+    "text": "hai",
+    "start": 4.93,
+    "end": 5.2
+  },
+  {
+    "id": "w19",
+    "text": "Brain",
+    "start": 5.2,
+    "end": 5.49
+  },
+  {
+    "id": "w20",
+    "text": "scans",
+    "start": 5.49,
+    "end": 5.78
+  },
+  {
+    "id": "w21",
+    "text": "dikhate",
+    "start": 5.78,
+    "end": 6.07
+  },
+  {
+    "id": "w22",
+    "text": "hain",
+    "start": 6.07,
+    "end": 6.36
+  },
+  {
+    "id": "w23",
+    "text": "ki",
+    "start": 6.36,
+    "end": 6.64
+  },
+  {
+    "id": "w24",
+    "text": "simple",
+    "start": 6.64,
+    "end": 6.93
+  },
+  {
+    "id": "w25",
+    "text": "baat",
+    "start": 6.93,
+    "end": 7.22
+  },
+  {
+    "id": "w26",
+    "text": "karte",
+    "start": 7.22,
+    "end": 7.51
+  },
+  {
+    "id": "w27",
+    "text": "waqt",
+    "start": 7.51,
+    "end": 7.8
+  },
+  {
+    "id": "w28",
+    "text": "ya",
+    "start": 7.8,
+    "end": 8.09
+  },
+  {
+    "id": "w29",
+    "text": "sote",
+    "start": 8.09,
+    "end": 8.38
+  },
+  {
+    "id": "w30",
+    "text": "hue",
+    "start": 8.38,
+    "end": 8.67
+  },
+  {
+    "id": "w31",
+    "text": "bhi",
+    "start": 8.67,
+    "end": 8.96
+  },
+  {
+    "id": "w32",
+    "text": "poora",
+    "start": 8.96,
+    "end": 9.24
+  },
+  {
+    "id": "w33",
+    "text": "dimaag",
+    "start": 9.24,
+    "end": 9.53
+  },
+  {
+    "id": "w34",
+    "text": "active",
+    "start": 9.53,
+    "end": 9.82
+  },
+  {
+    "id": "w35",
+    "text": "rehta",
+    "start": 9.82,
+    "end": 10.11
+  },
+  {
+    "id": "w36",
+    "text": "hai",
+    "start": 10.11,
+    "end": 10.4
+  },
+  {
+    "id": "w37",
+    "text": "Dimaag",
+    "start": 10.4,
+    "end": 10.65
+  },
+  {
+    "id": "w38",
+    "text": "body",
+    "start": 10.65,
+    "end": 10.91
+  },
+  {
+    "id": "w39",
+    "text": "ka",
+    "start": 10.91,
+    "end": 11.16
+  },
+  {
+    "id": "w40",
+    "text": "sirf",
+    "start": 11.16,
+    "end": 11.41
+  },
+  {
+    "id": "w41",
+    "text": "do",
+    "start": 11.41,
+    "end": 11.66
+  },
+  {
+    "id": "w42",
+    "text": "percent",
+    "start": 11.66,
+    "end": 11.91
+  },
+  {
+    "id": "w43",
+    "text": "weight",
+    "start": 11.91,
+    "end": 12.17
+  },
+  {
+    "id": "w44",
+    "text": "leta",
+    "start": 12.17,
+    "end": 12.42
+  },
+  {
+    "id": "w45",
+    "text": "hai",
+    "start": 12.42,
+    "end": 12.67
+  },
+  {
+    "id": "w46",
+    "text": "par",
+    "start": 12.67,
+    "end": 12.93
+  },
+  {
+    "id": "w47",
+    "text": "poore",
+    "start": 12.93,
+    "end": 13.18
+  },
+  {
+    "id": "w48",
+    "text": "shareer",
+    "start": 13.18,
+    "end": 13.43
+  },
+  {
+    "id": "w49",
+    "text": "ki",
+    "start": 13.43,
+    "end": 13.68
+  },
+  {
+    "id": "w50",
+    "text": "20",
+    "start": 13.68,
+    "end": 13.93
+  },
+  {
+    "id": "w51",
+    "text": "percent",
+    "start": 13.93,
+    "end": 14.19
+  },
+  {
+    "id": "w52",
+    "text": "energy",
+    "start": 14.19,
+    "end": 14.44
+  },
+  {
+    "id": "w53",
+    "text": "akele",
+    "start": 14.44,
+    "end": 14.69
+  },
+  {
+    "id": "w54",
+    "text": "consume",
+    "start": 14.69,
+    "end": 14.95
+  },
+  {
+    "id": "w55",
+    "text": "karta",
+    "start": 14.95,
+    "end": 15.2
+  },
+  {
+    "id": "w56",
+    "text": "hai",
+    "start": 15.2,
+    "end": 15.45
+  },
+  {
+    "id": "w57",
+    "text": "Agar",
+    "start": 15.45,
+    "end": 15.83
+  },
+  {
+    "id": "w58",
+    "text": "90",
+    "start": 15.83,
+    "end": 16.21
+  },
+  {
+    "id": "w59",
+    "text": "percent",
+    "start": 16.21,
+    "end": 16.58
+  },
+  {
+    "id": "w60",
+    "text": "dimaag",
+    "start": 16.58,
+    "end": 16.96
+  },
+  {
+    "id": "w61",
+    "text": "sach",
+    "start": 16.96,
+    "end": 17.34
+  },
+  {
+    "id": "w62",
+    "text": "mein",
+    "start": 17.34,
+    "end": 17.72
+  },
+  {
+    "id": "w63",
+    "text": "bekaar",
+    "start": 17.72,
+    "end": 18.09
+  },
+  {
+    "id": "w64",
+    "text": "hota",
+    "start": 18.09,
+    "end": 18.47
+  },
+  {
+    "id": "w65",
+    "text": "toh",
+    "start": 18.47,
+    "end": 18.85
+  },
+  {
+    "id": "w66",
+    "text": "nature",
+    "start": 18.85,
+    "end": 19.23
+  },
+  {
+    "id": "w67",
+    "text": "aisi",
+    "start": 19.23,
+    "end": 19.61
+  },
+  {
+    "id": "w68",
+    "text": "useless",
+    "start": 19.61,
+    "end": 19.98
+  },
+  {
+    "id": "w69",
+    "text": "energy",
+    "start": 19.98,
+    "end": 20.36
+  },
+  {
+    "id": "w70",
+    "text": "waste",
+    "start": 20.36,
+    "end": 20.74
+  },
+  {
+    "id": "w71",
+    "text": "kabhi",
+    "start": 20.74,
+    "end": 21.12
+  },
+  {
+    "id": "w72",
+    "text": "allow",
+    "start": 21.12,
+    "end": 21.49
+  },
+  {
+    "id": "w73",
+    "text": "nahi",
+    "start": 21.49,
+    "end": 21.87
+  },
+  {
+    "id": "w74",
+    "text": "karti",
+    "start": 21.87,
+    "end": 22.25
+  },
+  {
+    "id": "w75",
+    "text": "Medical",
+    "start": 22.25,
+    "end": 22.41
+  },
+  {
+    "id": "w76",
+    "text": "reality",
+    "start": 22.41,
+    "end": 22.58
+  },
+  {
+    "id": "w77",
+    "text": "yeh",
+    "start": 22.58,
+    "end": 22.74
+  },
+  {
+    "id": "w78",
+    "text": "hai",
+    "start": 22.74,
+    "end": 22.91
+  },
+  {
+    "id": "w79",
+    "text": "ki",
+    "start": 22.91,
+    "end": 23.07
+  },
+  {
+    "id": "w80",
+    "text": "agar",
+    "start": 23.07,
+    "end": 23.23
+  },
+  {
+    "id": "w81",
+    "text": "dimaag",
+    "start": 23.23,
+    "end": 23.4
+  },
+  {
+    "id": "w82",
+    "text": "ke",
+    "start": 23.4,
+    "end": 23.56
+  },
+  {
+    "id": "w83",
+    "text": "kisi",
+    "start": 23.56,
+    "end": 23.73
+  },
+  {
+    "id": "w84",
+    "text": "ek",
+    "start": 23.73,
+    "end": 23.89
+  },
+  {
+    "id": "w85",
+    "text": "percent",
+    "start": 23.89,
+    "end": 24.05
+  },
+  {
+    "id": "w86",
+    "text": "chhotey",
+    "start": 24.05,
+    "end": 24.22
+  },
+  {
+    "id": "w87",
+    "text": "hisse",
+    "start": 24.22,
+    "end": 24.38
+  },
+  {
+    "id": "w88",
+    "text": "par",
+    "start": 24.38,
+    "end": 24.54
+  },
+  {
+    "id": "w89",
+    "text": "bhi",
+    "start": 24.54,
+    "end": 24.71
+  },
+  {
+    "id": "w90",
+    "text": "chot",
+    "start": 24.71,
+    "end": 24.87
+  },
+  {
+    "id": "w91",
+    "text": "lag",
+    "start": 24.87,
+    "end": 25.04
+  },
+  {
+    "id": "w92",
+    "text": "jaye",
+    "start": 25.04,
+    "end": 25.2
+  },
+  {
+    "id": "w93",
+    "text": "toh",
+    "start": 25.2,
+    "end": 25.59
+  },
+  {
+    "id": "w94",
+    "text": "insaan",
+    "start": 25.59,
+    "end": 25.98
+  },
+  {
+    "id": "w95",
+    "text": "apni",
+    "start": 25.98,
+    "end": 26.37
+  },
+  {
+    "id": "w96",
+    "text": "bolne",
+    "start": 26.37,
+    "end": 26.76
+  },
+  {
+    "id": "w97",
+    "text": "ya",
+    "start": 26.76,
+    "end": 27.15
+  },
+  {
+    "id": "w98",
+    "text": "chalne",
+    "start": 27.15,
+    "end": 27.54
+  },
+  {
+    "id": "w99",
+    "text": "ki",
+    "start": 27.54,
+    "end": 27.92
+  },
+  {
+    "id": "w100",
+    "text": "ability",
+    "start": 27.92,
+    "end": 28.31
+  },
+  {
+    "id": "w101",
+    "text": "hamesha",
+    "start": 28.31,
+    "end": 28.7
+  },
+  {
+    "id": "w102",
+    "text": "ke",
+    "start": 28.7,
+    "end": 29.09
+  },
+  {
+    "id": "w103",
+    "text": "liye",
+    "start": 29.09,
+    "end": 29.48
+  },
+  {
+    "id": "w104",
+    "text": "kho",
+    "start": 29.48,
+    "end": 29.87
+  },
+  {
+    "id": "w105",
+    "text": "sakta",
+    "start": 29.87,
+    "end": 30.26
+  },
+  {
+    "id": "w106",
+    "text": "hai",
+    "start": 30.26,
+    "end": 30.65
+  },
+  {
+    "id": "w107",
+    "text": "Yeh",
+    "start": 30.65,
+    "end": 30.92
+  },
+  {
+    "id": "w108",
+    "text": "myth",
+    "start": 30.92,
+    "end": 31.19
+  },
+  {
+    "id": "w109",
+    "text": "bas",
+    "start": 31.19,
+    "end": 31.46
+  },
+  {
+    "id": "w110",
+    "text": "ek",
+    "start": 31.46,
+    "end": 31.74
+  },
+  {
+    "id": "w111",
+    "text": "purani",
+    "start": 31.74,
+    "end": 32.01
+  },
+  {
+    "id": "w112",
+    "text": "research",
+    "start": 32.01,
+    "end": 32.28
+  },
+  {
+    "id": "w113",
+    "text": "ko",
+    "start": 32.28,
+    "end": 32.55
+  },
+  {
+    "id": "w114",
+    "text": "galat",
+    "start": 32.55,
+    "end": 32.82
+  },
+  {
+    "id": "w115",
+    "text": "samajhne",
+    "start": 32.82,
+    "end": 33.09
+  },
+  {
+    "id": "w116",
+    "text": "ki",
+    "start": 33.09,
+    "end": 33.36
+  },
+  {
+    "id": "w117",
+    "text": "wajah",
+    "start": 33.36,
+    "end": 33.64
+  },
+  {
+    "id": "w118",
+    "text": "se",
+    "start": 33.64,
+    "end": 33.91
+  },
+  {
+    "id": "w119",
+    "text": "faila",
+    "start": 33.91,
+    "end": 34.18
+  },
+  {
+    "id": "w120",
+    "text": "tha",
+    "start": 34.18,
+    "end": 34.45
+  },
+  {
+    "id": "w121",
+    "text": "Toh",
+    "start": 34.45,
+    "end": 34.68
+  },
+  {
+    "id": "w122",
+    "text": "sach",
+    "start": 34.68,
+    "end": 34.92
+  },
+  {
+    "id": "w123",
+    "text": "yeh",
+    "start": 34.92,
+    "end": 35.15
+  },
+  {
+    "id": "w124",
+    "text": "hai",
+    "start": 35.15,
+    "end": 35.39
+  },
+  {
+    "id": "w125",
+    "text": "ki",
+    "start": 35.39,
+    "end": 35.62
+  },
+  {
+    "id": "w126",
+    "text": "aap",
+    "start": 35.62,
+    "end": 35.86
+  },
+  {
+    "id": "w127",
+    "text": "abhi",
+    "start": 35.86,
+    "end": 36.09
+  },
+  {
+    "id": "w128",
+    "text": "bhi",
+    "start": 36.09,
+    "end": 36.32
+  },
+  {
+    "id": "w129",
+    "text": "apna",
+    "start": 36.32,
+    "end": 36.56
+  },
+  {
+    "id": "w130",
+    "text": "poora",
+    "start": 36.56,
+    "end": 36.79
+  },
+  {
+    "id": "w131",
+    "text": "dimaag",
+    "start": 36.79,
+    "end": 37.03
+  },
+  {
+    "id": "w132",
+    "text": "use",
+    "start": 37.03,
+    "end": 37.26
+  },
+  {
+    "id": "w133",
+    "text": "kar",
+    "start": 37.26,
+    "end": 37.5
+  },
+  {
+    "id": "w134",
+    "text": "rahe",
+    "start": 37.5,
+    "end": 37.73
+  },
+  {
+    "id": "w135",
+    "text": "hain",
+    "start": 37.73,
+    "end": 37.97
+  },
+  {
+    "id": "w136",
+    "text": "chahe",
+    "start": 37.97,
+    "end": 38.2
+  },
+  {
+    "id": "w137",
+    "text": "aapko",
+    "start": 38.2,
+    "end": 38.43
+  },
+  {
+    "id": "w138",
+    "text": "aisa",
+    "start": 38.43,
+    "end": 38.67
+  },
+  {
+    "id": "w139",
+    "text": "feel",
+    "start": 38.67,
+    "end": 38.9
+  },
+  {
+    "id": "w140",
+    "text": "ho",
+    "start": 38.9,
+    "end": 39.14
+  },
+  {
+    "id": "w141",
+    "text": "ya",
+    "start": 39.14,
+    "end": 39.37
+  },
+  {
+    "id": "w142",
+    "text": "na",
+    "start": 39.37,
+    "end": 39.61
+  },
+  {
+    "id": "w143",
+    "text": "ho",
+    "start": 39.61,
+    "end": 39.84
+  }
+]

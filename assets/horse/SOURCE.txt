@@ -1,0 +1,5 @@
+Horse (rigged, animated: Walk, Gallop, Idle, ...) by Quaternius
+Page:     https://poly.pizza/m/qvTrSG9pZF
+File:     https://static.poly.pizza/d37dbc87-ca61-4b2c-a2da-d2f0c4240bef.glb  (saved as horse_q.glb)
+Licence:  CC0 1.0 / Public Domain (as stated on the Poly Pizza page; Quaternius pack licence is CC0). No credit required.
+horse.blend is generated from horse_q.glb by prep_horse.py (welded verts, smooth shading, size baked in).

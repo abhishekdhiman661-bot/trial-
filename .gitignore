@@ -1,0 +1,8 @@
+node_modules/
+.hyperframes/
+renders/
+*.blend1
+*.tar.xz
+blender-*/
+final_short.mp4
+hyperframes_render.mp4

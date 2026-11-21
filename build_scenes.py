@@ -205,10 +205,21 @@ def new_scene(n):
     seg = SEGS[n - 1]
     scn = bpy.data.scenes.new(f"S{n:02d}")
     r = scn.render
-    r.engine = 'BLENDER_EEVEE'
+    for eng in ('BLENDER_EEVEE_NEXT', 'BLENDER_EEVEE', 'BLENDER_WORKBENCH', 'CYCLES'):
+        try:
+            r.engine = eng
+            break
+        except Exception:
+            pass
     r.resolution_x, r.resolution_y, r.fps = 1080, 1920, FPS
     scn.frame_start, scn.frame_end = 1, seg["frames"]
     scn.world = WORLD
+    
+    r.image_settings.file_format = 'FFMPEG'
+    r.ffmpeg.format = 'MPEG4'
+    r.ffmpeg.codec = 'H264'
+    r.ffmpeg.constant_rate_factor = 'HIGH'
+    r.ffmpeg.audio_codec = 'NONE'
     
     # Lighting: Key light + Rim light + Fill
     key_l = bpy.data.lights.new(f"Key_L_{n}", 'SUN')
